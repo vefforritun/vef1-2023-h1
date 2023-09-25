@@ -1,5 +1,7 @@
 # Vefforritun 1, 2023, hópverkefni 1
 
+[Kynning í fyrirlestri](https://youtu.be/uX4COJ_WQEo).
+
 Verkefnið felst í því að smíða vef eftir forskrift.
 
 [Gefin verður hönnun í Figma](https://www.figma.com/file/w19VYX9TlPOqKud5BQHFNY/Vefforritun-1%2C-2023%2C-H%C3%B3pverkefni-1?type=design&node-id=0%3A1&mode=design&t=F5vB4gusIZydTV8d-1). Hægt er að kveikja á grind með View > Layout grids.
