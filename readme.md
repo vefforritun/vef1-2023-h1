@@ -1,6 +1,7 @@
 # Vefforritun 1, 2023, hópverkefni 1
 
-[Kynning í fyrirlestri](https://youtu.be/uX4COJ_WQEo).
+- [Kynning í fyrirlestri](https://youtu.be/uX4COJ_WQEo).
+- [Um Figma](https://youtu.be/NeGCb9dnJLo).
 
 Verkefnið felst í því að smíða vef eftir forskrift.
 
