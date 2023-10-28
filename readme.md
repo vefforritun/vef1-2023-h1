@@ -47,7 +47,14 @@ Setja skal upp Sass og stylelint með `stylelint-config-sass-guidelines` og `sty
 
 ## Mat
 
-TBD.
+- 10% - README eftir forskrift, tæki og tól uppsett, vefur keyrir á Netilfy
+- 10% - Git notað og PR eftir forskrift
+- 10% – Snyrtilegt, gilt (skv. stylelint) CSS/Sass, gilt og aðgengilegt HTML
+- 20% – Almennt útlit og skalanleiki
+- 20% – Forsíða
+- 10% – Vörulisti
+- 10% – Vörusíða
+- 10% – Pöntunarsíða
 
 ## Sett fyrir
 
